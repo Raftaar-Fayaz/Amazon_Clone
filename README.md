@@ -15,14 +15,14 @@ React JS, Google Firebase(Authentication, Hosting), React Currency Formate , Mat
  
 ### SCREENSHOTS
 
-<p align="center">
-<img src="https://i.ibb.co/PCcShVb/amazon1.png" alt="amazon1">
-<img src="https://i.ibb.co/C7jWSZP/amazon2.png" alt="amazon2">
-<img src="https://i.ibb.co/p38ktQQ/amazon3.png" alt="amazon3">
-<img src="https://i.ibb.co/sgJp4Xm/amazon4.png" alt="amazon4">
-<img src="https://i.ibb.co/PcCGLxg/amazon5.png" alt="amazon5">
-<img src="https://i.ibb.co/D13wBG7/amazon6.png" alt="amazon6">
-<img src="https://i.ibb.co/dbtNpTK/amazon7.png" alt="amazon7">
+<p align="left">
+ <img src="https://i.ibb.co/PCcShVb/amazon1.png" alt="amazon1"><span>  </span>
+<img src="https://i.ibb.co/C7jWSZP/amazon2.png" alt="amazon2"><span>  </span>
+<img src="https://i.ibb.co/p38ktQQ/amazon3.png" alt="amazon3"><span>  </span>
+<img src="https://i.ibb.co/sgJp4Xm/amazon4.png" alt="amazon4"><span>  </span>
+<img src="https://i.ibb.co/PcCGLxg/amazon5.png" alt="amazon5"><span>  </span>
+<img src="https://i.ibb.co/D13wBG7/amazon6.png" alt="amazon6"><span>  </span>
+<img src="https://i.ibb.co/dbtNpTK/amazon7.png" alt="amazon7"><span>  </span>
  </p>
  
 
