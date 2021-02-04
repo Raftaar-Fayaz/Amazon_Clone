@@ -20,6 +20,8 @@ React JS, Google Firebase(Authentication, Hosting), React Currency Formate , Mat
   - After Successfully Cloning repo \ Downloading Zip File.
   - Install Material-UI Core and Icons.
   - Install firebase.
+  - Setup firebase -> Authentication(Gmail).
+  - Setup firebase -> Cloud Firestore(Database).
   - Install React Currency Formate.
   - Install stripe.
   - That's it you are ready to go.
