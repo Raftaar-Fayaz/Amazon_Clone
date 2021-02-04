@@ -15,9 +15,20 @@ React JS, Google Firebase(Authentication, Hosting), React Currency Formate , Mat
  
 ### SCREENSHOTS
 
-<img src="https://i.ibb.co/PCcShVb/amazon1.png" alt="amazon1" border="10px"><img src="https://i.ibb.co/C7jWSZP/amazon2.png" alt="amazon2" border="10px"><img src="https://i.ibb.co/p38ktQQ/amazon3.png" alt="amazon3" border="10px"><img src="https://i.ibb.co/sgJp4Xm/amazon4.png" alt="amazon4" border="10px"><img src="https://i.ibb.co/PcCGLxg/amazon5.png" alt="amazon5" border="10px"><img src="https://i.ibb.co/D13wBG7/amazon6.png" alt="amazon6" border="10px"><img src="https://i.ibb.co/dbtNpTK/amazon7.png" alt="amazon7" border="10px">
+<p align="center">
+<img src="https://i.ibb.co/PCcShVb/amazon1.png" alt="amazon1">
+<img src="https://i.ibb.co/C7jWSZP/amazon2.png" alt="amazon2">
+<img src="https://i.ibb.co/p38ktQQ/amazon3.png" alt="amazon3">
+<img src="https://i.ibb.co/sgJp4Xm/amazon4.png" alt="amazon4">
+<img src="https://i.ibb.co/PcCGLxg/amazon5.png" alt="amazon5">
+<img src="https://i.ibb.co/D13wBG7/amazon6.png" alt="amazon6">
+<img src="https://i.ibb.co/dbtNpTK/amazon7.png" alt="amazon7">
+ </p>
+ 
 
 <br/>
+
+
 # Setup
 
   - After Successfully Cloning repo \ Downloading Zip File.
