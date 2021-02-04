@@ -12,9 +12,19 @@ React JS, Google Firebase(Authentication, Hosting), React Currency Formate , Mat
 <p align="center">
  <img src="https://i.ibb.co/6PKNqxX/amazon2.png">
  </p>
+ 
+### SCREENSHOTS
 
+
+
+<img src="https://i.ibb.co/ZTBZ8bw/amazon1.png" alt="amazon1" border="0">
+<img src="https://i.ibb.co/6PKNqxX/amazon2.png" alt="amazon2" border="0">
+<img src="https://i.ibb.co/NLPG8rr/amazon3.png" alt="amazon3" border="0">
+<img src="https://i.ibb.co/8m4nwQK/amazon4.png" alt="amazon4" border="0">
+<img src="https://i.ibb.co/x15qkh6/amazon5.png" alt="amazon5" border="0">
+<img src="https://i.ibb.co/S6qVkQK/amazon6.png" alt="amazon6" border="0">
+<img src="https://i.ibb.co/VHxFC1B/amazon7.png" alt="amazon7" border="0">
 <br/>
-
 # Setup
 
   - After Successfully Cloning repo \ Downloading Zip File.
