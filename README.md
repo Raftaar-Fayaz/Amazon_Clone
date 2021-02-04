@@ -1,4 +1,4 @@
-# Netflix Clone
+# Amazon Clone
 
 
 This project is inspired by the original Amazon website.<br />
